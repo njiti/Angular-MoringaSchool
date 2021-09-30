@@ -6,15 +6,6 @@
 body{
     font-family: 'Segoe Ui', Tahoma, Geneva, Verdana, sans-serif;
 }
-.logor > img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    border: 2px solid #26cec5;
-}
 .nav-bar{
     display: flex;
     justify-content: space-around;
