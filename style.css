@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe Ui', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav-items>a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: hsl(233,8%,62%);
+    margin-left: 10px;
+}
+.nav-bar > button {
+    padding: 12px 20px;
+    border: none;
+    outline: 0;
+    color: white;
+    background-image: linear;
+}
